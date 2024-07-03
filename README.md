@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Pedro+Curi!;" />
 </h1>
 
+![snake gif](https://github.com/PedroCuri88/PedroCuri88/blob/output/github-contribution-grid-snake.gif)
+
 ## Passionate about transforming lives through technology.
 
 - 👨🏻‍🎓 Graduated in systems analysis and development, software architecture and full-stack web development.
