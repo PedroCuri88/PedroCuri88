@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning back-end technologies such as Python and PHP.
 - 👯 I’m looking to collaborate on different projects, at all levels of complexity.
 - 🤔 I’m looking for help with directions to officially enter the IT market.
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm left-handed but I play guitar right-handed.
 - 🌎 Birthplace: Rio de Janeiro, Brazil.
 - 😎 Currently living in Juiz de Fora, Brazil.
