@@ -7,10 +7,8 @@
 ## Passionate about transforming lives through technology 🚀
 
 - 👨🏻‍🎓 Graduated in systems analysis and development, software architecture and full-stack web development.
-- 🔭 I’m currently working on freelance projects (front-end and mobile)
-- 🌱 I’m currently learning back-end technologies such as Python and PHP.
+- 🔭 I'm currently working for a New Zealand company with global operations, focusing on Oceania and Europe.
 - 👯 I’m looking to collaborate on different projects, at all levels of complexity.
-- 🤔 I’m looking for help with directions to officially enter the IT market.
 - ⚡ Fun fact: I'm left-handed but I play guitar right-handed.
 - 🌎 Birthplace: Rio de Janeiro, Brazil.
 - 😎 Currently living in Juiz de Fora, Brazil.
